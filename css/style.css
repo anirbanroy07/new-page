@@ -26,7 +26,7 @@ h3{
 
 
 main{
-  min-height: 100vh;
+  min-height: 50vh;
   font-family: "Poppins",sans-serif;
   background-color: #A9C9FF;
   background: linear-gradient(180deg, #A9C9FF 0%, #FFBBEC 100%);
